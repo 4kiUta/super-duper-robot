@@ -1,2 +1,2 @@
 # super-duper-robot
-ironhack choking out code from GitHub
+ironhack chekingout code from GitHub
