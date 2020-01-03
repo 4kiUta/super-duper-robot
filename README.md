@@ -1,2 +1,2 @@
 # super-duper-robot
-ironhack chekingout code from GitHub
+ironhack cheking out code from GitHub
